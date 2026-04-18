@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Archivos .cph
+*.cph
+# Ejecutables (sin extensión)
+# Esto ignora archivos SIN punto (binarios típicos en Linux)
+*
+!*/
+!*.*
